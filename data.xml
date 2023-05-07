@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>lectvs</title>
+  <based-in>Seattle, WA</based-in>
+  <founding-date>May 2011</founding-date>
+  <website>https://lectvs.itch.io/</website>
+  <press-contact>
+    lectvs@gmail.com
+  </press-contact>
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>https://twitter.com/lectvs</link>
+    </social>
+  </socials>
+
+  <description>Hayden "lectvs" McCraw is a software engineer and indie game developer.</description>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>lectvs@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/lectvs</link>
+    </contact>
+    <contact>
+      <name>Games</name>
+      <link>https://lectvs.itch.io</link>
+    </contact>
+  </contacts>
+</company>

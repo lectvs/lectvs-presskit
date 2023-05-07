@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Auto Balls</title>
+  <website>https://lectvs.itch.io/auto-balls</website>
+
+  <release-dates>
+    <release-date>January 19, 2022 (v1.0)</release-date>
+    <release-date>March 2, 2022 (v1.1)</release-date>
+    <release-date>April 20, 2022 (v1.2)</release-date>
+    <release-date>June 29, 2022 (v1.2B)</release-date>
+    <release-date>September 29, 2022 (v1.2.5, Mobile Release)</release-date>
+    <release-date>January 19, 2023 (Birthday Update)</release-date>
+    <release-date>May 14, 2023 (v1.3, Community Pack)</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>Web</name>
+      <link>https://lectvs.itch.io/auto-balls</link>
+    </platform>
+    <platform>
+      <name>Android</name>
+      <link>https://play.google.com/store/apps/details?id=net.lectvs.autoballs</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <value>Free To Play</value>
+    </price>
+  </prices>
+
+  <description>Auto Balls is a chaotic, online auto-battler where you smash balls into each other! Build and upgrade your squad and face other players' squads in the arena! Can you adapt fast enough to survive and win 8 rounds?</description>
+
+  <history>In 2021, a group of friends got together for a weekend and forced each other to make games of their choosing, and from this impromptu game jam, Auto Balls was born! In January 2022, Auto Balls 1.0 was released. In the months following release, it saw explosive player growth and quickly met member milestones on the official Discord server, leading to consistent content updates with new balls, items, a mobile port, and Versus Mode!</history>
+
+  <features>
+    <feature>Auto Balls is strategic and chaotic, for a perfect blend of strategy and luck.</feature>
+    <feature>With the simplicity of squad-building in Auto Balls, it's super easy to jump into the game and learn as you play.</feature>
+    <feature>130 uniquely designed balls and items to pick from, with more added every update!</feature>
+    <feature>Play against random players online in Matchmaking Mode, or one-vs-one against a friend in Versus Mode.</feature>
+    <feature>A hidden secret...?</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Community Pack Trailer</name>
+      <youtube>vt5bhsXipnk</youtube>
+    </trailer>
+    <trailer>
+      <name>Let's Play - Retromation (English)</name>
+      <youtube>EoyDQuIgPec</youtube>
+    </trailer>
+    <trailer>
+      <name>Let's Play - Andrezitos (Portuguese)</name>
+      <youtube>cXwZtFDbL3g</youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <itch>1344275</itch>
+    <playstore>net.lectvs.autoballs</playstore>
+  </widgets>
+
+  <quotes>
+    <quote>
+      <description>Auto Balls by @lectvs is a unique take on auto-battlers and has been coming along very nicely!</description>
+      <name>Fabian Fischer (Wiki Arena)</name>
+      <website>Tweet</website>
+      <link>https://twitter.com/Ludokultur/status/1522242968597323776</link>
+    </quote>
+    <quote>
+      <description>Fun beyblade-esque battler!</description>
+      <name>Simon Boxer (Ring of Pain)</name>
+      <website>Tweet</website>
+      <link>https://twitter.com/sboxle/status/1512637495498129409</link>
+    </quote>
+  </quotes>
+
+  <credits>
+    <credit>
+      <person>Hayden "lectvs" McCraw</person>
+      <role>Design, Code, Art, Sound, Secrets</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>lectvs@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/lectvs</link>
+    </contact>
+    <contact>
+      <name>Other Games</name>
+      <link>https://lectvs.itch.io</link>
+    </contact>
+  </contacts>
+</product>
